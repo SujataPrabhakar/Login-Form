@@ -1,0 +1,10 @@
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\bin\Debug\LoginFormWithSqlServerDemo.exe.config
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\bin\Debug\LoginFormWithSqlServerDemo.exe
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\bin\Debug\LoginFormWithSqlServerDemo.pdb
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.csprojAssemblyReference.cache
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.Properties.Resources.resources
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.csproj.GenerateResource.cache
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.exe
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.pdb
+C:\Users\sujat\source\repos\LoginFormWithSqlServerDemo\obj\Debug\LoginFormWithSqlServerDemo.FrmLogin.resources
